@@ -929,7 +929,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 61C74CCB)
-    (at 209.55 195.2625 90)
+    (at 202.40625 195.14375 90)
     (path /61F3301B)
     (attr smd)
     (fp_text reference D124 (at -0.0254 1.4 90) (layer F.SilkS)
@@ -1388,8 +1388,8 @@
     )
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C652BF)
-    (at 223.8375 202.40625)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C785AE)
+    (at 221.45625 195.2625)
     (path /61E56CE6)
     (fp_text reference MX116 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1419,7 +1419,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C652AA)
-    (at 242.8875 202.40625)
+    (at 240.50625 195.2625)
     (path /61E47BD7)
     (fp_text reference MX115 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1449,7 +1449,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C65295)
-    (at 261.9375 202.40625)
+    (at 259.55625 195.2625)
     (path /61E65E4A)
     (fp_text reference MX114 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1479,7 +1479,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C65213)
-    (at 242.8875 183.35625)
+    (at 240.50625 176.2125)
     (path /61E3924F)
     (fp_text reference MX108 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1542,7 +1542,7 @@
     (pad "" np_thru_hole circle (at 57.15 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 61C65267)
+  (module MX_Only:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 61C79080)
     (at 0 192.88125)
     (path /61DFB702)
     (fp_text reference MX112 (at 0 3.175) (layer Dwgs.User)
@@ -1663,7 +1663,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 61C640FE)
-    (at 233.3625 204.7875 90)
+    (at 230.98125 197.7625 90)
     (path /61E56CE0)
     (attr smd)
     (fp_text reference D116 (at -0.0254 1.4 90) (layer F.SilkS)
@@ -1711,7 +1711,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 61C640E5)
-    (at 252.4125 204.7875 90)
+    (at 250.03125 197.64375 90)
     (path /61E47BD1)
     (attr smd)
     (fp_text reference D115 (at -0.0254 1.4 90) (layer F.SilkS)
@@ -1759,7 +1759,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 61C640CC)
-    (at 271.4625 204.7875 90)
+    (at 269.08125 197.64375 90)
     (path /61E65E44)
     (attr smd)
     (fp_text reference D114 (at -0.0254 1.4 90) (layer F.SilkS)
@@ -2047,7 +2047,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 61C64036)
-    (at 252.4125 185.7375 90)
+    (at 250.03125 178.59375 90)
     (path /61E39249)
     (attr smd)
     (fp_text reference D108 (at -0.0254 1.4 90) (layer F.SilkS)
@@ -2560,7 +2560,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C39859)
-    (at 230.98125 173.83125 90)
+    (at 226.21875 169.06875 90)
     (path /61C809ED)
     (attr smd)
     (fp_text reference D107 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -4775,7 +4775,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1C05A)
-    (at 185.7375 78.58125)
+    (at 188.11875 78.58125)
     (path /61C60D26)
     (fp_text reference MX27 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4805,7 +4805,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1C03E)
-    (at 166.6875 78.58125)
+    (at 169.06875 78.58125)
     (path /61C60D18)
     (fp_text reference MX26 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4835,7 +4835,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1C022)
-    (at 147.6375 78.58125)
+    (at 150.01875 78.58125)
     (path /61C60D0A)
     (fp_text reference MX25 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4865,7 +4865,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1C006)
-    (at 128.5875 78.58125)
+    (at 130.96875 78.58125)
     (path /61C60CFC)
     (fp_text reference MX24 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5224,8 +5224,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1BE9A)
-    (at 214.3125 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C7959A)
+    (at 219.075 59.53125)
     (path /61C35496)
     (fp_text reference MX12 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5254,8 +5254,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1BE62)
-    (at 185.7375 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C7955E)
+    (at 188.11875 59.53125)
     (path /61C27F9E)
     (fp_text reference MX11 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5284,8 +5284,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1BE46)
-    (at 166.6875 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C79522)
+    (at 169.06875 59.53125)
     (path /61C27F90)
     (fp_text reference MX10 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5314,8 +5314,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1BE2A)
-    (at 147.6375 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C794E6)
+    (at 150.01875 59.53125)
     (path /61C27F82)
     (fp_text reference MX9 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5344,8 +5344,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C1BE0E)
-    (at 128.5875 59.53125)
+  (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 61C794AA)
+    (at 130.96875 59.53125)
     (path /61C27F74)
     (fp_text reference MX8 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -9232,8 +9232,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B58C)
-    (at 195.2625 80.9625 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C7981A)
+    (at 197.64375 80.9625 90)
     (path /61C60D2C)
     (attr smd)
     (fp_text reference D27 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -9280,8 +9280,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B573)
-    (at 176.2125 80.9625 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C797D2)
+    (at 178.59375 80.9625 90)
     (path /61C60D1E)
     (attr smd)
     (fp_text reference D26 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -9328,8 +9328,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B55A)
-    (at 157.1625 80.9625 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C7978A)
+    (at 159.54375 80.9625 90)
     (path /61C60D10)
     (attr smd)
     (fp_text reference D25 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -9376,8 +9376,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B541)
-    (at 138.1125 80.9625 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C79742)
+    (at 140.49375 80.9625 90)
     (path /61C60D02)
     (attr smd)
     (fp_text reference D24 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -9904,8 +9904,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B3FC)
-    (at 223.8375 61.79375 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C796FA)
+    (at 228.6 61.79375 90)
     (path /61C3549C)
     (attr smd)
     (fp_text reference D12 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -9952,8 +9952,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B3CA)
-    (at 195.2625 61.79375 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C796B2)
+    (at 197.64375 61.79375 90)
     (path /61C27FA4)
     (attr smd)
     (fp_text reference D11 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -10000,8 +10000,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B3B1)
-    (at 176.2125 61.79375 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C7966A)
+    (at 178.59375 61.79375 90)
     (path /61C27F96)
     (attr smd)
     (fp_text reference D10 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -10048,8 +10048,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B398)
-    (at 157.1625 61.9125 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C79622)
+    (at 159.54375 61.9125 90)
     (path /61C27F88)
     (attr smd)
     (fp_text reference D9 (at -0.0254 -1.4 90) (layer B.SilkS)
@@ -10096,8 +10096,8 @@
     )
   )
 
-  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C1B37F)
-    (at 138.1125 61.79375 90)
+  (module Keebio-Parts:Diode-dual (layer B.Cu) (tedit 5B7FFAB1) (tstamp 61C795DA)
+    (at 140.49375 61.79375 90)
     (path /61C27F7A)
     (attr smd)
     (fp_text reference D8 (at -0.0254 -1.4 90) (layer B.SilkS)
