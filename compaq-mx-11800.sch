@@ -375,21 +375,6 @@ F 3 "" H 875 5575 60  0001 C CNN
 	1    1500 5600
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	950  5750 950  5850
-Wire Wire Line
-	1050 5750 950  5750
-$Comp
-L Device:D_Small D93
-U 1 1 61D63DFD
-P 950 5950
-F 0 "D93" H 950 5743 50  0000 C CNN
-F 1 "D_Small" H 950 5834 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" V 950 5950 50  0001 C CNN
-F 3 "~" V 950 5950 50  0001 C CNN
-	1    950  5950
-	0    -1   -1   0   
-$EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX93
 U 1 1 61D63DF7
@@ -3161,4 +3146,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 7500 6350 7500
 Connection ~ 6200 8500
+Wire Wire Line
+	1050 5750 1350 5750
+Connection ~ 1350 5750
 $EndSCHEMATC
