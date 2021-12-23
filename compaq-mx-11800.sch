@@ -3213,4 +3213,70 @@ F 3 "" H 5725 8325 60  0001 C CNN
 	1    6350 8350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61C64BC8
+P 1000 100
+F 0 "H1" H 1100 146 50  0000 L CNN
+F 1 "MountingHole" H 1100 55  50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1000 100 50  0001 C CNN
+F 3 "~" H 1000 100 50  0001 C CNN
+	1    1000 100 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61C9736A
+P 1850 100
+F 0 "H2" H 1950 146 50  0000 L CNN
+F 1 "MountingHole" H 1950 55  50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1850 100 50  0001 C CNN
+F 3 "~" H 1850 100 50  0001 C CNN
+	1    1850 100 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 61C97D62
+P 2700 100
+F 0 "H3" H 2800 146 50  0000 L CNN
+F 1 "MountingHole" H 2800 55  50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 2700 100 50  0001 C CNN
+F 3 "~" H 2700 100 50  0001 C CNN
+	1    2700 100 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 61C98E0E
+P 3600 100
+F 0 "H4" H 3700 146 50  0000 L CNN
+F 1 "MountingHole" H 3700 55  50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3600 100 50  0001 C CNN
+F 3 "~" H 3600 100 50  0001 C CNN
+	1    3600 100 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 61CD4313
+P 4350 100
+F 0 "H5" H 4450 146 50  0000 L CNN
+F 1 "MountingHole" H 4450 55  50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4350 100 50  0001 C CNN
+F 3 "~" H 4350 100 50  0001 C CNN
+	1    4350 100 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 61D29BE7
+P 5150 100
+F 0 "H6" H 5250 146 50  0000 L CNN
+F 1 "MountingHole" H 5250 55  50  0000 L CNN
+F 2 "Keebio-Parts:SolidCopper" H 5150 100 50  0001 C CNN
+F 3 "~" H 5150 100 50  0001 C CNN
+	1    5150 100 
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
