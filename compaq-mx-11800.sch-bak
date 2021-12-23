@@ -3274,7 +3274,7 @@ U 1 1 61D29BE7
 P 5150 100
 F 0 "H6" H 5250 146 50  0000 L CNN
 F 1 "MountingHole" H 5250 55  50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5150 100 50  0001 C CNN
+F 2 "Keebio-Parts:SolidCopper" H 5150 100 50  0001 C CNN
 F 3 "~" H 5150 100 50  0001 C CNN
 	1    5150 100 
 	1    0    0    -1  
