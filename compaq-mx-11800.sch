@@ -464,7 +464,7 @@ U 1 1 61D3D92F
 P 15250 11850
 F 0 "MX74" H 15283 12073 60  0000 C CNN
 F 1 "MX-NoLED" H 15283 11999 20  0000 C CNN
-F 2 "MX_Only:MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED" H 14625 11825 60  0001 C CNN
+F 2 "MX_Only:MXOnly-ISO-ReversedStabilizers-NoLED" H 14625 11825 60  0001 C CNN
 F 3 "" H 14625 11825 60  0001 C CNN
 	1    15250 11850
 	1    0    0    -1  
@@ -4465,4 +4465,42 @@ Text GLabel 10450 6300 3    50   Input ~ 0
 row13
 Text GLabel 10650 6300 3    50   Input ~ 0
 row14
+Text GLabel 12350 6300 3    50   Input ~ 0
+col0
+Text GLabel 10150 7750 1    50   Input ~ 0
+col1
+Text GLabel 11050 7750 1    50   Input ~ 0
+col2
+Text GLabel 11950 7800 1    50   Input ~ 0
+col3
+Text GLabel 12250 6300 3    50   Input ~ 0
+col1
+Text GLabel 12150 6300 3    50   Input ~ 0
+col2
+Text GLabel 12050 6300 3    50   Input ~ 0
+col3
+Text GLabel 12850 7850 1    50   Input ~ 0
+col4
+Text GLabel 13750 7800 1    50   Input ~ 0
+col5
+Text GLabel 12450 6300 3    50   Input ~ 0
+col4
+Text GLabel 12550 6300 3    50   Input ~ 0
+col5
+Text GLabel 14650 7800 1    50   Input ~ 0
+col6
+Text GLabel 16100 7550 1    50   Input ~ 0
+col7
+Text GLabel 12650 6300 3    50   Input ~ 0
+col6
+Text GLabel 12750 6300 3    50   Input ~ 0
+col7
+Text GLabel 17800 7650 1    50   Input ~ 0
+col8
+Text GLabel 19350 7650 1    50   Input ~ 0
+col9
+Text GLabel 12850 6300 3    50   Input ~ 0
+col8
+Text GLabel 12950 6300 3    50   Input ~ 0
+col9
 $EndSCHEMATC
