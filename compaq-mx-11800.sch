@@ -216,8 +216,6 @@ Wire Wire Line
 	8900 11400 8900 11450
 Wire Wire Line
 	8150 12350 8850 12350
-Wire Wire Line
-	8150 11450 8900 11450
 Connection ~ 15050 10650
 Wire Wire Line
 	15050 10550 15050 10650
@@ -320,14 +318,7 @@ Connection ~ 9800 8650
 Wire Wire Line
 	9800 8550 9800 8650
 Wire Wire Line
-	8900 8650 9800 8650
-Connection ~ 8900 8650
-Wire Wire Line
-	8900 8550 8900 8650
-Wire Wire Line
 	8150 8700 10250 8700
-Wire Wire Line
-	8150 8650 8900 8650
 $Comp
 L Device:D_Small D51
 U 1 1 61E61DC5
@@ -364,17 +355,6 @@ F 2 "MX_Only:MXOnly-1U-NoLED" H 8425 8075 60  0001 C CNN
 F 3 "" H 8425 8075 60  0001 C CNN
 	1    9050 8100
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D1
-U 1 1 61C19A04
-P 8900 8450
-F 0 "D1" H 8900 8243 50  0000 C CNN
-F 1 "D_Small" H 8900 8334 50  0000 C CNN
-F 2 "Keebio-Parts:Diode-dual" V 8900 8450 50  0001 C CNN
-F 3 "~" V 8900 8450 50  0001 C CNN
-	1    8900 8450
-	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	9000 8250 8900 8250
@@ -3257,17 +3237,11 @@ Wire Wire Line
 Wire Wire Line
 	15450 13600 14650 13600
 Wire Wire Line
-	8050 14550 8900 14550
-Wire Wire Line
-	8050 14600 9350 14600
-Wire Wire Line
 	8900 14500 8900 14550
-Connection ~ 8900 14550
 Wire Wire Line
 	8900 14550 11600 14550
 Wire Wire Line
 	9350 14500 9350 14600
-Connection ~ 9350 14600
 Wire Wire Line
 	9350 14600 13850 14600
 Wire Wire Line
@@ -4408,97 +4382,123 @@ F 3 "~" H 12650 6100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text GLabel 9250 7700 1    50   Input ~ 0
-col0
-Text GLabel 11450 6300 3    50   Input ~ 0
-row0
-Text GLabel 8050 14550 0    50   Input ~ 0
-row0
-Text GLabel 8050 14600 0    50   Input ~ 0
-row1
-Text GLabel 11350 6300 3    50   Input ~ 0
-row1
-Text GLabel 8150 13250 0    50   Input ~ 0
-row3
-Text GLabel 8150 13300 0    50   Input ~ 0
-row2
-Text GLabel 11250 6300 3    50   Input ~ 0
-row3
-Text GLabel 11150 6300 3    50   Input ~ 0
-row2
-Text GLabel 8150 12350 0    50   Input ~ 0
-row5
-Text GLabel 8150 12400 0    50   Input ~ 0
-row6
-Text GLabel 11050 6300 3    50   Input ~ 0
-row5
-Text GLabel 10950 6300 3    50   Input ~ 0
-row6
-Text GLabel 8150 11450 0    50   Input ~ 0
-row7
-Text GLabel 10050 6300 3    50   Input ~ 0
-row7
-Text GLabel 8150 11500 0    50   Input ~ 0
-row8
-Text GLabel 10150 6300 3    50   Input ~ 0
-row8
-Text GLabel 10250 6300 3    50   Input ~ 0
-row9
-Text GLabel 10350 6300 3    50   Input ~ 0
-row10
-Text GLabel 8200 10650 0    50   Input ~ 0
-row10
-Text GLabel 8200 10600 0    50   Input ~ 0
-row9
-Text GLabel 8150 9400 0    50   Input ~ 0
-row11
-Text GLabel 8150 9350 0    50   Input ~ 0
-row12
-Text GLabel 8150 8700 0    50   Input ~ 0
-row13
-Text GLabel 8150 8650 0    50   Input ~ 0
-row14
-Text GLabel 10750 6300 3    50   Input ~ 0
-row12
-Text GLabel 10550 6300 3    50   Input ~ 0
-row11
-Text GLabel 10450 6300 3    50   Input ~ 0
-row13
-Text GLabel 10650 6300 3    50   Input ~ 0
-row14
-Text GLabel 12350 6300 3    50   Input ~ 0
-col0
+col3
 Text GLabel 10150 7750 1    50   Input ~ 0
-col1
+col2
 Text GLabel 11050 7750 1    50   Input ~ 0
-col2
-Text GLabel 11950 7800 1    50   Input ~ 0
-col3
-Text GLabel 12250 6300 3    50   Input ~ 0
 col1
-Text GLabel 12150 6300 3    50   Input ~ 0
-col2
-Text GLabel 12050 6300 3    50   Input ~ 0
-col3
+Text GLabel 11950 7800 1    50   Input ~ 0
+col0
 Text GLabel 12850 7850 1    50   Input ~ 0
 col4
 Text GLabel 13750 7800 1    50   Input ~ 0
-col5
-Text GLabel 12450 6300 3    50   Input ~ 0
-col4
-Text GLabel 12550 6300 3    50   Input ~ 0
 col5
 Text GLabel 14650 7800 1    50   Input ~ 0
 col6
 Text GLabel 16100 7550 1    50   Input ~ 0
 col7
-Text GLabel 12650 6300 3    50   Input ~ 0
-col6
-Text GLabel 12750 6300 3    50   Input ~ 0
-col7
 Text GLabel 17800 7650 1    50   Input ~ 0
 col8
 Text GLabel 19350 7650 1    50   Input ~ 0
 col9
+Text GLabel 8150 12350 0    50   Input ~ 0
+row9
+Text GLabel 8150 12400 0    50   Input ~ 0
+row8
+Text GLabel 8150 11450 0    50   Input ~ 0
+row0
+Text GLabel 8200 10650 0    50   Input ~ 0
+row3
+Text GLabel 8200 10600 0    50   Input ~ 0
+row2
+Text GLabel 8150 9400 0    50   Input ~ 0
+row5
+Text GLabel 8150 8650 0    50   Input ~ 0
+row6
+Text GLabel 8150 13300 0    50   Input ~ 0
+row10
+Text GLabel 8150 13250 0    50   Input ~ 0
+row11
+Connection ~ 9350 14600
+Wire Wire Line
+	8050 14600 9350 14600
+Connection ~ 8900 14550
+Wire Wire Line
+	8050 14550 8900 14550
+Text GLabel 10550 6300 3    50   Input ~ 0
+row5
+Text GLabel 10350 6300 3    50   Input ~ 0
+row3
+Text GLabel 10050 6300 3    50   Input ~ 0
+row0
+Text GLabel 11050 6300 3    50   Input ~ 0
+row9
+Text GLabel 10950 6300 3    50   Input ~ 0
+row8
+Text GLabel 11250 6300 3    50   Input ~ 0
+row11
+Text GLabel 11150 6300 3    50   Input ~ 0
+row10
+Text GLabel 11350 6300 3    50   Input ~ 0
+row12
+Text GLabel 11450 6300 3    50   Input ~ 0
+row13
+Text GLabel 8150 8700 0    50   Input ~ 0
+row4
+Text GLabel 10650 6300 3    50   Input ~ 0
+row6
+Text GLabel 8150 9350 0    50   Input ~ 0
+row7
+Text GLabel 10750 6300 3    50   Input ~ 0
+row7
+Text GLabel 8150 11500 0    50   Input ~ 0
+row1
+Text GLabel 10450 6300 3    50   Input ~ 0
+row4
+Text GLabel 10150 6300 3    50   Input ~ 0
+row1
+Text GLabel 10250 6300 3    50   Input ~ 0
+row2
+Text GLabel 8050 14550 0    50   Input ~ 0
+row13
+Text GLabel 8050 14600 0    50   Input ~ 0
+row12
+Wire Wire Line
+	8150 11450 8900 11450
+$Comp
+L Device:D_Small D1
+U 1 1 61C19A04
+P 8900 8450
+F 0 "D1" H 8900 8243 50  0000 C CNN
+F 1 "D_Small" H 8900 8334 50  0000 C CNN
+F 2 "Keebio-Parts:Diode-dual" V 8900 8450 50  0001 C CNN
+F 3 "~" V 8900 8450 50  0001 C CNN
+	1    8900 8450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8150 8650 8900 8650
+Wire Wire Line
+	8900 8650 9800 8650
+Connection ~ 8900 8650
+Wire Wire Line
+	8900 8550 8900 8650
+Text GLabel 12050 6300 3    50   Input ~ 0
+col0
+Text GLabel 12150 6300 3    50   Input ~ 0
+col1
+Text GLabel 12250 6300 3    50   Input ~ 0
+col2
+Text GLabel 12350 6300 3    50   Input ~ 0
+col3
+Text GLabel 12450 6300 3    50   Input ~ 0
+col4
+Text GLabel 12550 6300 3    50   Input ~ 0
+col5
+Text GLabel 12650 6300 3    50   Input ~ 0
+col6
+Text GLabel 12750 6300 3    50   Input ~ 0
+col7
 Text GLabel 12850 6300 3    50   Input ~ 0
 col8
 Text GLabel 12950 6300 3    50   Input ~ 0
