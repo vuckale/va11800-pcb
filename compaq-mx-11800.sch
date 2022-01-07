@@ -4385,4 +4385,84 @@ Connection ~ 17700 13850
 Connection ~ 17800 13850
 Wire Wire Line
 	17800 13850 17800 14800
+$Comp
+L Connector:Conn_01x16_Female J1
+U 1 1 61E186A1
+P 10650 6100
+F 0 "J1" H 10678 6076 50  0000 L CNN
+F 1 "Conn_01x16_Female" H 10678 5985 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 10650 6100 50  0001 C CNN
+F 3 "~" H 10650 6100 50  0001 C CNN
+	1    10650 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x16_Female J2
+U 1 1 61F6C6A5
+P 12650 6100
+F 0 "J2" H 12678 6076 50  0000 L CNN
+F 1 "Conn_01x16_Female" H 12678 5985 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 12650 6100 50  0001 C CNN
+F 3 "~" H 12650 6100 50  0001 C CNN
+	1    12650 6100
+	0    -1   -1   0   
+$EndComp
+Text GLabel 9250 7700 1    50   Input ~ 0
+col0
+Text GLabel 11450 6300 3    50   Input ~ 0
+row0
+Text GLabel 8050 14550 0    50   Input ~ 0
+row0
+Text GLabel 8050 14600 0    50   Input ~ 0
+row1
+Text GLabel 11350 6300 3    50   Input ~ 0
+row1
+Text GLabel 8150 13250 0    50   Input ~ 0
+row3
+Text GLabel 8150 13300 0    50   Input ~ 0
+row2
+Text GLabel 11250 6300 3    50   Input ~ 0
+row3
+Text GLabel 11150 6300 3    50   Input ~ 0
+row2
+Text GLabel 8150 12350 0    50   Input ~ 0
+row5
+Text GLabel 8150 12400 0    50   Input ~ 0
+row6
+Text GLabel 11050 6300 3    50   Input ~ 0
+row5
+Text GLabel 10950 6300 3    50   Input ~ 0
+row6
+Text GLabel 8150 11450 0    50   Input ~ 0
+row7
+Text GLabel 10050 6300 3    50   Input ~ 0
+row7
+Text GLabel 8150 11500 0    50   Input ~ 0
+row8
+Text GLabel 10150 6300 3    50   Input ~ 0
+row8
+Text GLabel 10250 6300 3    50   Input ~ 0
+row9
+Text GLabel 10350 6300 3    50   Input ~ 0
+row10
+Text GLabel 8200 10650 0    50   Input ~ 0
+row10
+Text GLabel 8200 10600 0    50   Input ~ 0
+row9
+Text GLabel 8150 9400 0    50   Input ~ 0
+row11
+Text GLabel 8150 9350 0    50   Input ~ 0
+row12
+Text GLabel 8150 8700 0    50   Input ~ 0
+row13
+Text GLabel 8150 8650 0    50   Input ~ 0
+row14
+Text GLabel 10750 6300 3    50   Input ~ 0
+row12
+Text GLabel 10550 6300 3    50   Input ~ 0
+row11
+Text GLabel 10450 6300 3    50   Input ~ 0
+row13
+Text GLabel 10650 6300 3    50   Input ~ 0
+row14
 $EndSCHEMATC
