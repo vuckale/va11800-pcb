@@ -1,4 +1,4 @@
-update=Sat 08 Jan 2022 02:17:39 CET
+update=Mon 10 Jan 2022 00:49:31 CET
 version=1
 last_client=kicad
 [general]
@@ -40,6 +40,7 @@ MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
 TrackWidth2=0.245
+TrackWidth3=10
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -59,7 +60,7 @@ CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.05
 CourtyardLineWidth=0.05
-OthersLineWidth=0.15
+OthersLineWidth=0.25
 OthersTextSizeV=1
 OthersTextSizeH=1
 OthersTextSizeThickness=0.15
