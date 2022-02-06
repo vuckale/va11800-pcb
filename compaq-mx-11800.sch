@@ -4801,22 +4801,6 @@ Wire Wire Line
 	14790 7350 15150 7350
 Wire Wire Line
 	15090 6890 15090 6560
-Wire Wire Line
-	15090 6560 12950 6560
-Wire Wire Line
-	12950 6560 12950 6300
-Wire Wire Line
-	15450 6890 15450 6540
-Wire Wire Line
-	15450 6540 13050 6540
-Wire Wire Line
-	13050 6540 13050 6300
-Wire Wire Line
-	15800 6890 15800 6520
-Wire Wire Line
-	15800 6520 13150 6520
-Wire Wire Line
-	13150 6520 13150 6300
 $Comp
 L MX_Alps_Hybrid:MX-NoLED insert1
 U 1 1 61C27F74
@@ -4837,4 +4821,53 @@ Wire Wire Line
 Connection ~ 12340 7410
 Wire Wire Line
 	12340 7410 12340 7470
+$Comp
+L Device:R_Small R1
+U 1 1 620C609A
+P 15090 6460
+F 0 "R1" H 15031 6414 50  0000 R CNN
+F 1 "R_Small" H 15031 6505 50  0000 R CNN
+F 2 "vuckale:Resistor" H 15090 6460 50  0001 C CNN
+F 3 "~" H 15090 6460 50  0001 C CNN
+	1    15090 6460
+	-1   0    0    1   
+$EndComp
+Text GLabel 15090 6360 1    50   Input ~ 0
+NumLock
+$Comp
+L Device:R_Small R2
+U 1 1 62243C04
+P 15450 6460
+F 0 "R2" H 15391 6414 50  0000 R CNN
+F 1 "R_Small" H 15391 6505 50  0000 R CNN
+F 2 "vuckale:Resistor" H 15450 6460 50  0001 C CNN
+F 3 "~" H 15450 6460 50  0001 C CNN
+	1    15450 6460
+	-1   0    0    1   
+$EndComp
+Text GLabel 15450 6360 1    50   Input ~ 0
+CapsLock
+Wire Wire Line
+	15450 6560 15450 6890
+$Comp
+L Device:R_Small R3
+U 1 1 622FE559
+P 15800 6460
+F 0 "R3" H 15741 6414 50  0000 R CNN
+F 1 "R_Small" H 15741 6505 50  0000 R CNN
+F 2 "vuckale:Resistor" H 15800 6460 50  0001 C CNN
+F 3 "~" H 15800 6460 50  0001 C CNN
+	1    15800 6460
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15800 6560 15800 6890
+Text GLabel 15800 6360 1    50   Input ~ 0
+ScrollLock
+Text GLabel 12950 6300 3    50   Input ~ 0
+NumLock
+Text GLabel 13050 6300 3    50   Input ~ 0
+CapsLock
+Text GLabel 13150 6300 3    50   Input ~ 0
+ScrollLock
 $EndSCHEMATC
