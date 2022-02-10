@@ -3237,9 +3237,6 @@ Wire Wire Line
 Connection ~ 17800 10900
 Wire Wire Line
 	17300 11150 17300 11200
-Connection ~ 17300 11200
-Wire Wire Line
-	17300 11200 17300 11250
 Wire Wire Line
 	17800 10900 17800 11750
 Wire Wire Line

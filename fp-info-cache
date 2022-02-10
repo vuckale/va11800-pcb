@@ -1,4 +1,4 @@
-19662415885763942
+19659132720705942
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -55489,13 +55489,6 @@ LED_3mm
 2
 2
 Keebio-Parts
-LED_D2.00mm
-
-
-0
-2
-2
-Keebio-Parts
 LQFP-48_7x7mm_Pitch0.5mm
 48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
 QFP 0.5
@@ -58134,20 +58127,6 @@ MXOnly-1U-NoLED
 0
 2
 2
-MX_Only
-MXOnly-1U-NoLED-NoFmask
-
-
-0
-2
-2
-MX_Only
-MXOnly-1U-NoLED_NM
-
-
-0
-0
-0
 MX_Only
 MXOnly-2.25U
 
@@ -85891,6 +85870,13 @@ varistor SIOV
 2
 vuckale
 Diode
+
+
+0
+2
+2
+vuckale
+LED_D2.00mm
 
 
 0
