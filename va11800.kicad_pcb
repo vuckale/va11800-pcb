@@ -14224,7 +14224,7 @@
   (gr_text 1.25u (at 231.23 218.96) (layer F.SilkS) (tstamp 61DF23A2)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text 1.25 (at 206.66 219.1) (layer F.SilkS) (tstamp 61DF239F)
+  (gr_text 1.25u (at 206.66 219.1) (layer F.SilkS) (tstamp 61DF239F)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text 7u (at 142.81 218.95) (layer F.SilkS) (tstamp 61DF18D9)
