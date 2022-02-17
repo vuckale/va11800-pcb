@@ -3473,17 +3473,6 @@ Wire Wire Line
 Wire Wire Line
 	8900 11100 8900 11200
 $Comp
-L Mechanical:MountingHole_Pad H7
-U 1 1 620D9A4A
-P 13240 7170
-F 0 "H7" H 13340 7219 50  0000 L CNN
-F 1 "MountingHole_Pad" H 13340 7128 50  0000 L CNN
-F 2 "Keebio-Parts:SolidCopper" H 13240 7170 50  0001 C CNN
-F 3 "~" H 13240 7170 50  0001 C CNN
-	1    13240 7170
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0102
 U 1 1 62315AC5
 P 12340 7470
@@ -3494,26 +3483,6 @@ F 3 "" H 12340 7470 50  0001 C CNN
 	1    12340 7470
 	1    0    0    -1  
 $EndComp
-$Comp
-L Mechanical:MountingHole_Pad H6
-U 1 1 62315ACB
-P 12340 7170
-F 0 "H6" H 12440 7219 50  0000 L CNN
-F 1 "MountingHole_Pad" H 12440 7128 50  0000 L CNN
-F 2 "Keebio-Parts:SolidCopper" H 12340 7170 50  0001 C CNN
-F 3 "~" H 12340 7170 50  0001 C CNN
-	1    12340 7170
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12340 7270 12340 7310
-Wire Wire Line
-	13240 7270 13240 7310
-Wire Wire Line
-	13240 7310 12340 7310
-Connection ~ 12340 7310
-Wire Wire Line
-	12340 7310 12340 7350
 $Comp
 L Device:LED D17
 U 1 1 61E5A842
@@ -4785,7 +4754,6 @@ Wire Wire Line
 	12340 7350 14790 7350
 Wire Wire Line
 	15510 7350 15500 6890
-Connection ~ 12340 7350
 Wire Wire Line
 	15150 6890 15150 7350
 Connection ~ 15150 7350
