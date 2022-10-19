@@ -5738,7 +5738,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 253.5682 201.9554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (id 2) (at 236.855 206.375 0)
+    (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 236.855 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 236.855 206.375 0)
@@ -5775,7 +5775,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 264.9982 201.9554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (id 2) (at 248.285 206.375 0)
+    (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 248.285 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 248.285 206.375 0)
@@ -6108,7 +6108,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 253.5682 222.2754 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (id 2) (at 236.855 226.695 0)
+    (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 236.855 226.695 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 236.855 226.695 0)
@@ -11128,13 +11128,13 @@
       (reference "escape1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-000061c1d772"
-      (reference "f1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "f1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/00000000-0000-0000-0000-000061c2de20"
-      (reference "f2") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "f2") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/00000000-0000-0000-0000-000061c1e3d6"
-      (reference "f3") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "f3") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/00000000-0000-0000-0000-000061c2de2e"
       (reference "f4") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
